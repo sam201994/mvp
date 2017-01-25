@@ -17,28 +17,21 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > My_Notes.
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > Everyone.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > My_Notes app lets you store your notes in a secured manner. you can access it from any device youing your username and password
 
 ## Problem ##
-  > Describe the problem your product solves.
-
-## Solution ##
-  > Describe how your product elegantly solves the problem.
+  > carry your important notes everywhere with you on any device
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > Happy Coding!
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
 
-## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
 
-## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
